@@ -16,7 +16,7 @@ Uma calculadora feita em Python3 que tem as seguintes funcionalidades:
 
 A calculadora roda no terminal e recebe input (entrada) do usuário para executar suas funcionalidades.
 
-![imagem da aplicação rodando e os testes sendo executados](https://user-images.githubusercontent.com/22684176/229898988-6a46042f-59fc-4413-8018-0b9e779cdba7.gif)
+![imagem da aplicação rodando e os testes sendo executados](https://user-images.githubusercontent.com/22684176/229899943-338d09c7-6b83-41b6-b991-9019e054a684.gif)
 
 Primeiro é pedido no terminal que a pessoa digite o primeiro valor. Os valores devem ser **inteiros**.
 
